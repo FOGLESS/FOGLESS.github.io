@@ -17,14 +17,12 @@ Here you have a [Google Maps link to the location of the DAA](https://maps.app.g
 
 ### How to get to the DAA
 
-The best option to arrive to the DAA is by Tramway Line 4 (blue line). This tramline has several destinations you will see at the front of the trams: “Ll. Llarga/Terramelar”, “Mas del Rosari”, "Fira", and “Vicent Andrés Estellés”.
-
-In any of these destinations you have to get off at “Vicente Andrés Estellés”, where you will be just in front of the white building in which the DAA is located. The pass frequency is at worst ten minutes.
+The best option to arrive to the DAA is by Tramway Line 4 (blue line). This tramline has several destinations you will see at the front of the trams: “Ll. Llarga/Terramelar”, “Mas del Rosari”, "Fira", and “Vicent Andrés Estellés”. In any of these destinations you have to get off at “Vicente Andrés Estellés”, where you will be just in front of the white building in which the DAA is located. The pass frequency is at worst ten minutes.
 
 Depending on the part of the city you are, it might not be possible to find a near tramway stop. You can use however any of the Metro lines to connect with the tramway line (the same ticket works for both, metro and tramway). In the case you need to take a Metro line, the best option for connection with tram is taking Lines 1 and 2 (yellow/pink lines) in direction "Lliria / Bétera / Seminari CEU". Any of the trains in this line (with destinations "Lliria", "Paterna", "Seminari" or "Bétera") will stop at "Empalme", where you can change to the tram. The main stop for connection between the rest of Metro lines and Lines 1/2 is "Àngel Guimerà".
 
-You can check the [schedules](https://www.metrovalencia.es/es/consulta-de-horarios-y-planificador/) and the [metro map](https://www.metrovalencia.es/wp-content/uploads/2023/12/Plano-general-Metrovalencia-2023.pdf), or you can look up for directions in [Google Maps](https://www.google.es/maps).
+You can check the [schedules](https://www.metrovalencia.es/es/consulta-de-horarios-y-planificador/) and the [metro map](https://www.metrovalencia.es/wp-content/uploads/2023/12/Plano-general-Metrovalencia-2023.pdf), or you can look up for directions in [Google Maps](https://www.google.es/maps). The cost of the single ride is 1.5€ («Zona A»), but you can buy and recharge a TuiN card at any ticket machine and you will pay 0.80€ per trip.
 
 #### By bus
 
-Alternatively, another convenient way to arrive to the Campus of Sciences is the EMT Bus. Take line 63 (to “Campus Burjassot UV”), and stop at “Campus Burjassot”. Pass frequency is around 15 minutes, but only from Monday to Friday. This bus line connects the Train Station ("Estación del Norte-RENFE") with the Campus. However, there are several bus stops along its way. The cost of the ride is 1,25 euros and it takes about 15-20 minutes. You can find more information in the [EMT website](https://geoportal.emtvalencia.es/visor?lang=es).
+Alternatively, another convenient way to arrive to the Campus of Sciences is the EMT Bus. Take line 63 (to “Campus Burjassot UV”), and stop at “Campus Burjassot”. Pass frequency is around 15 minutes, but only from Monday to Friday. This bus line connects the Train Station ("Estación del Norte-RENFE") with the Campus. However, there are several bus stops along its way. The cost of the ride is 1.5€ and it takes about 15-20 minutes. With the current discounts, you can buy a ticket for 10 rides («bonobús») for 4.25€. You can find more information in the [EMT website](https://geoportal.emtvalencia.es/visor?lang=es).
