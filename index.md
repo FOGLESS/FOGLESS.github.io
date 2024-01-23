@@ -18,6 +18,10 @@ The program will be very informal. We will have short sessions of selected talks
 
 <center><button type="button" name="button" class="btn" onclick="location.href='https://github.com/dvallesp/ASOHF';">Go to the registration form</button></center>
 
+### Code of conduct
+
+Tbd
+
 ### Contact
 
 To add or modify content of this webpage, ask for access to the GitHub repository to [David Vallés-Pérez](mailto:david.valles-perez@uv.es).
