@@ -5,7 +5,8 @@ nav_order: 1
 last_modified_at: 2022-04-06T13:37:11
 ---
 
-# FOGLESS 2024 meeting
+# Formation Of Galaxiess in the LargE Scale Structure 
+## 2024 FOGLESS coordinated project  meeting
 
 ### Announcement
 
