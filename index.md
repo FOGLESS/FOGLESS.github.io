@@ -26,7 +26,7 @@ The meeting is by invitation only.
 The organisation is dedicated to providing a harassment-free meeting experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity or religion (or lack thereof). We do not tolerate harassment of meeting participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the meeting at the discretion of the conference organisers.
 
 ### Contact
+m
+To add or modify content of this webpage, ask for access to the GitHub repository to <a href="mailto:david.valles-perez@uv.es>David Vallés-Pérez</a>.
 
-To add or modify content of this webpage, ask for access to the GitHub repository to [David Vallés-Pérez](mailto:david.valles-perez@uv.es).
-
-If you have any problem regarding registration, please contact [Marco Molina](mailto:marco.molina@uv.es) or [Óscar Monllor](mailto:oscar.monllor@uv.es).
+If you have any problem regarding registration, please contact <a href="mailto:marco.molina@uv.es">Marco Molina</a> or <a href="mailto:oscar.monllor@uv.es">Óscar Monllor</a>.
