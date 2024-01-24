@@ -23,7 +23,7 @@ The meeting is by invitation only.
 
 ### Code of conduct
 
-Tbd
+The organisation is dedicated to providing a harassment-free meeting experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity or religion (or lack thereof). We do not tolerate harassment of meeting participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the meeting at the discretion of the conference organisers.
 
 ### Contact
 
