@@ -28,3 +28,5 @@ Tbd
 ### Contact
 
 To add or modify content of this webpage, ask for access to the GitHub repository to [David Vallés-Pérez](mailto:david.valles-perez@uv.es).
+
+If you have any problem regarding registration, please contact [Marco Molina](mailto:marco.molina@uv.es) or [Óscar Monllor](mailto:oscar.monllor@uv.es).
