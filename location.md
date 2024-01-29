@@ -17,6 +17,10 @@ Here you have a [Google Maps link to the location of the DAA](https://maps.app.g
 
 ### How to get to the DAA
 
+From the Hotel Port Fira, you can reach the department by a 15-minute walk.
+
+#### From the city centre
+
 The best option to arrive to the DAA is by Tramway Line 4 (blue line). This tramline has several destinations you will see at the front of the trams: “Ll. Llarga/Terramelar”, “Mas del Rosari”, "Fira", and “Vicent Andrés Estellés”. In any of these destinations you have to get off at “Vicente Andrés Estellés”, where you will be just in front of the white building in which the DAA is located. The pass frequency is at worst ten minutes.
 
 Depending on the part of the city you are, it might not be possible to find a near tramway stop. You can use however any of the Metro lines to connect with the tramway line (the same ticket works for both, metro and tramway). In the case you need to take a Metro line, the best option for connection with tram is taking Lines 1 and 2 (yellow/pink lines) in direction "Lliria / Bétera / Seminari CEU". Any of the trains in this line (with destinations "Lliria", "Paterna", "Seminari" or "Bétera") will stop at "Empalme", where you can change to the tram. The main stop for connection between the rest of Metro lines and Lines 1/2 is "Àngel Guimerà".
