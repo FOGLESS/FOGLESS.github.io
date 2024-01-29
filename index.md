@@ -15,7 +15,7 @@ Welcome to the “Formation Of Galaxies in the LargE Scale Structure (FOGLESS) 2
 The project began in 2023 and, as you all know, it is formed by three main scientific nodes: US (PI: José Oñorbe), UCM (PI: Patricia Sánchez-Blázquez) and UV (PIs: Susana Planelles, Vicent Quilis).
 This will be the first meeting of our coordinated project, which will be useful in order to meet everybody and get informed about what each one of us is working on.
 
-The program will be very informal. We will have short sessions of selected talks on XXX, and YYY.
+The program will be very informal. We will have short sessions of selected talks summarising the main scientific aims of each node, and an update of the research line (past/current/future work) of each participant in relation to the project. We will also have plenty of time for open discussions and brainstorming.
 
 The meeting is by invitation only.
 
