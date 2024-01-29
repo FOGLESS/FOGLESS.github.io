@@ -15,11 +15,13 @@ Valencia (SPAIN)
 
 Here you have a [Google Maps link to the location of the DAA](https://maps.app.goo.gl/LDDR9VMe9BjWaCXMA).
 
-### How to get to the DAA
+### How to get to the DAA your hotel
 
 From the Hotel Port Fira, you can reach the department by a 15-minute walk.
 
-#### From the city centre
+### How to get to the DAA from the city centre
+
+#### By tramway or metro
 
 The best option to arrive to the DAA is by Tramway Line 4 (blue line). This tramline has several destinations you will see at the front of the trams: “Ll. Llarga/Terramelar”, “Mas del Rosari”, "Fira", and “Vicent Andrés Estellés”. In any of these destinations you have to get off at “Vicente Andrés Estellés”, where you will be just in front of the white building in which the DAA is located. The pass frequency is at worst ten minutes.
 
