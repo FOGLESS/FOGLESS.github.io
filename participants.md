@@ -9,5 +9,11 @@ last_modified_at: 2022-04-06T13:37:11
 
 | Name | Institution |
 |---|---|---|---|---|
-| Persona 1 | University of X |
-| Persona 2 | University of Y |
+| Vicent Quilis | Universitat de València |
+| David Vallés-Pérez | Universitat de València |
+| Òscar Monllor Berbegal | Universitat de València |
+| Mónica Hernández Sánchez | Universitat de València |
+| Susana Planelles Mira | Universitat de València |
+| Marco José Molina Pradillo | Universitat de València |
+| María Iranzo Muñoz | Universitat de València |
+| Jose Oñorbe | University of Seville |
