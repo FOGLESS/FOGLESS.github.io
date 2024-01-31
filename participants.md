@@ -16,9 +16,9 @@ last_modified_at: 2022-04-06T13:37:11
 | Susana Planelles Mira | Universitat de València |
 | Marco José Molina Pradillo | Universitat de València |
 | María Iranzo Muñoz | Universitat de València |
-| Jose Oñorbe | University of Seville |
 | Kiara Hervella Seoane | Universitat de València |
-| Patricia Sánchez Blázquez | Universidad Coplutense de Madrid |
+| Jose Oñorbe | University of Seville |
+| Patricia Sánchez Blázquez | Universidad Complutense de Madrid |
 | Beatriz Callejas Córdoba | Universidad Complutense de Madrid |
 | Enrique Galceran | Universidad Complutense de Madrid |
 | Artemi Camps Fariña | Universidad Complutense de Madrid |
