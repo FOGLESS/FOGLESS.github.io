@@ -11,44 +11,44 @@ The meeting will take place on Tuesday 6 and Wednesday 7 February and will provi
 
 ### February 6th (Tuesday)
 
-10:00 - 11:00  Welcome and introduction from the project's PIs
+10:00 - 11:00 Welcome and introduction from the project's PIs
 
-  - Welcome from Vicent Quilis & Susana Planelles
+  - **Welcome** from Vicent Quilis & Susana Planelles
     
-  - Patricia Sánchez Blázquez: "General Introduction and UCM Specific Goals"
-  - Jose Oñorbe: "Status of the proyect: Seville node"
-  - Susana Planelles Mira: "FOGLESS @ UV"
+  - **Patricia Sánchez Blázquez**: "General Introduction and UCM Specific Goals"
+  - **Jose Oñorbe**: "Status of the proyect: Seville node"
+  - **Susana Planelles Mira**: "FOGLESS @ UV"
     
-11:00 - 11:30  Coffe break
+11:00 - 11:30  Coffee break
 
-11:30 - 13:00  Conferences
+11:30 - 13:00  Talks
 
-  - Beatriz Callejas Córdoba: "Cosmology and mass modeling with simulated and real galaxy clusters: scientific preparation of CATARSIS"
-  - Òscar Monllor Berbegal: "Galaxy formation and evolution in a cosmological context"
-  - Artemi Camps Fariña: "Gas accretion history in local galaxies"
-  - David Vallés-Pérez: "Unravelling the complexity of cosmic flows: strong gradients, shock waves and turbulence"
-  - Enrique Galceran: "Star formation histories and metallicity evolution with convolutional neural networks"
-  - María Iranzo Muñoz: "Emulation of cosmological simulations with machine learning techniques"
+  - **Beatriz Callejas Córdoba**: "Cosmology and mass modeling with simulated and real galaxy clusters: scientific preparation of CATARSIS"
+  - **Òscar Monllor Berbegal**: "Galaxy formation and evolution in a cosmological context"
+  - **Artemi Camps Fariña**: "Gas accretion history in local galaxies"
+  - **David Vallés-Pérez**: "Unravelling the complexity of cosmic flows: strong gradients, shock waves and turbulence"
+  - **Enrique Galceran**: "Star formation histories and metallicity evolution with convolutional neural networks"
+  - **María Iranzo Muñoz**: "Emulation of cosmological simulations with machine learning techniques"
 
 13:00 - 15:00  Lunch break
 
-15:00 - 17:00  Time for discussion
+15:00 - 17:00  Discussion
 
 21:00 Social dinner
 
 ### February 7th (Wednesday)
 
-9:30 - 11:00  Conferences
+9:30 - 11:00  Talks
 
-  - Shane P. O'Sullivan: "Magnetised gas in the WHIM and CGM"
-  - Marco José Molina Pradillo: "Origin and mechanisms of magnetic field amplification in galaxies and galaxy clusters"
-  - Mónica Hernández Sánchez: "Cosmic voids in Cosmological simulations from Masclet"
-  - Kiara Hervella Seoane: "Feedback from simulated low-power radio galaxies"
+  - **Shane P. O'Sullivan**: "Magnetised gas in the WHIM and CGM"
+  - **Marco José Molina Pradillo**: "Origin and mechanisms of magnetic field amplification in galaxies and galaxy clusters"
+  - **Mónica Hernández Sánchez**: "Cosmic voids in Cosmological simulations from Masclet"
+  - **Kiara Hervella Seoane**: "Feedback from simulated low-power radio galaxies"
     
-11:00 - 11:30  Coffe break
+11:00 - 11:30  Coffee break
 
-11:30 - 13:00  Time for discussion
+11:30 - 13:00  Discusison
 
 13:00 - 15:00  Lunch break
 
-15:00 - 17:00  Time for discussion and closure of the meeting
+15:00 - 17:00  Discussion and closing remarks
