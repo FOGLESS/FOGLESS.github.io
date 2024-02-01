@@ -9,6 +9,8 @@ last_modified_at: 2022-04-06T13:37:11
 
 The meeting will take place on Tuesday 6 and Wednesday 7 February and will provide an opportunity to present our work in short talks of around 12 minutes plus 3 minutes for questions, as well as a place for discussion and breaks to get to know each other better.
 
+We will have all our sessions at the **Aula d'Astronomia**. To reach the Aula d'Astronomia, enter the building and go to south wing of the building. Then, go the fifth floor *(caution! the operation is not commutative; the Aula d'Astronomia can only be reached through these stairs/lift)*.
+
 ### February 6th (Tuesday)
 
 10:00 - 11:00 Welcome and introduction from the project's PIs

@@ -15,6 +15,8 @@ Valencia (SPAIN)
 
 Here you have a [Google Maps link to the location of the DAA](https://maps.app.goo.gl/LDDR9VMe9BjWaCXMA).
 
+In particular, we will meet at the **Aula d'Astronomia**. To reach the Aula d'Astronomia, enter the building and go to south wing of the building. Then, go the fifth floor *(caution! the operation is not commutative; the Aula d'Astronomia can only be reached through these stairs/lift)*.
+
 ### How to get to the DAA your hotel
 
 From the Hotel Port Fira, you can reach the department by a 15-minute walk.
