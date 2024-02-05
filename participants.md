@@ -17,6 +17,7 @@ last_modified_at: 2022-04-06T13:37:11
 | Marco José Molina Pradillo | Universitat de València |
 | María Iranzo Muñoz | Universitat de València |
 | Kiara Hervella Seoane | Universitat de València |
+| José María Martí | Universitat de València |
 | Jose Oñorbe | University of Seville |
 | Patricia Sánchez Blázquez | Universidad Complutense de Madrid |
 | Beatriz Callejas Córdoba | Universidad Complutense de Madrid |
