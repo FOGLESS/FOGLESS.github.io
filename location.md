@@ -15,6 +15,8 @@ Valencia (SPAIN)
 
 Here you have a [Google Maps link to the location of the DAA](https://maps.app.goo.gl/LDDR9VMe9BjWaCXMA).
 
+In particular, we will meet at the **Aula d'Astronomia**. To reach the Aula d'Astronomia, enter the building and go to south wing of the building. Then, go the fifth floor *(caution! the operation is not commutative; the Aula d'Astronomia can only be reached through these stairs/lift)*.
+
 ### How to get to the DAA your hotel
 
 From the Hotel Port Fira, you can reach the department by a 15-minute walk.
@@ -32,3 +34,7 @@ You can check the [schedules](https://www.metrovalencia.es/es/consulta-de-horari
 #### By bus
 
 Alternatively, another convenient way to arrive to the Campus of Sciences is the EMT Bus. Take line 63 (to “Campus Burjassot UV”), and stop at “Campus Burjassot”. Pass frequency is around 15 minutes, but only from Monday to Friday. This bus line connects the Train Station ("Estación del Norte-RENFE") with the Campus. However, there are several bus stops along its way. The cost of the ride is 1.5€ and it takes about 15-20 minutes. With the current discounts, you can buy a ticket for 10 rides («bonobús») for 4.25€. You can find more information in the [EMT website](https://geoportal.emtvalencia.es/visor?lang=es).
+
+### Conference dinner 
+
+The conference dinner will be held at the Delgadito Gastrobar (Carrer de Sant Antoni, 5, Godella 46110). You can find the location through this [Google Maps link](https://maps.app.goo.gl/wnbwJkMdTZDAZ3Tt8?g_st=iw). From the DAA, you can reach the restaurant by a 20-minute walk. Alternatively (although it will likely be slower), you can take the tramway to "Empalme", and then change to the metro (line 1, destination "Seminari-CEU" or "Bétera") and get off at "Godella". The restaurant is located at 1 minute walking from the metro stop.
