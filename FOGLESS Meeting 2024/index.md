@@ -6,14 +6,14 @@ last_modified_at: 2022-04-06T13:37:11
 ---
 
 # Formation Of Galaxies in the LargE Scale Structure 
-## 2025 FOGLESS coordinated project meeting
+## 2024 FOGLESS coordinated project meeting
 
 ### Announcement
 
-Welcome to the “Formation Of Galaxies in the LargE Scale Structure (FOGLESS) 2025 meeting” to be held in Valencia (Spain) from May 13th (Tuesday) to May 14th (Wednesday) 2025.
+Welcome to the “Formation Of Galaxies in the LargE Scale Structure (FOGLESS) 2024 meeting” to be held in Valencia (Spain) from February 6th (Tuesday) to February 7th (Wednesday) 2024.
 
-The project began in 2023 and, as you all know, it is formed by three main scientific nodes: US (PI: José Oñorbe), UCM (PI: Patricia Sánchez-Blázquez) and UV (PIs: Susana Planelles, Vicent Quilis).  
-This meeting will allow us to follow up on our progress and discuss current and future research directions within the project.
+The project began in 2023 and, as you all know, it is formed by three main scientific nodes: US (PI: José Oñorbe), UCM (PI: Patricia Sánchez-Blázquez) and UV (PIs: Susana Planelles, Vicent Quilis).
+This will be the first meeting of our coordinated project, which will be useful in order to meet everybody and get informed about what each one of us is working on.
 
 The program will be very informal. We will have short sessions of selected talks summarising the main scientific aims of each node, and an update of the research line (past/current/future work) of each participant in relation to the project. We will also have plenty of time for open discussions and brainstorming.
 
