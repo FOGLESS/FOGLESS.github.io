@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Registration
+parent: FOGLESS Meeting 2024
 nav_order: 2
 last_modified_at: 2022-04-12T11:08:56
 ---
