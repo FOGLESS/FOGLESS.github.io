@@ -19,7 +19,7 @@ The program will be very informal. We will have short sessions of selected talks
 
 The meeting is by invitation only.
 
-<center><button type="button" name="button" class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSe9V9jP4ZkQOMGjM7ADmz072BOQYcR3USR54Lx4Fyq241EdHA/viewform';">Go to the registration form</button></center>
+<center><button type="button" name="button" class="btn" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSdwCJrNhfyUvzPuSVBUq5j_NfruQ2RGVy9CLvQrR1t1vSr2yg/viewform?';">Go to the registration form</button></center>
 
 ### Code of conduct
 
