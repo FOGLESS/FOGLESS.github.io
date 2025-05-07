@@ -18,6 +18,7 @@ last_modified_at: 2022-04-06T13:37:11
 | María Iranzo Muñoz | Universitat de València |
 | Mónica Hernández Sánchez | Universitat de València |
 | David Vallés-Pérez | Universitat de València |
+| Manel Perucho Pla | Universitat de València |
 | Jose Oñorbe | Universidad de Sevilla |
 | Doris Stoppacher | Universidad de Sevilla |
 | Balu Sreedhar | Universidad de Sevilla |
