@@ -36,7 +36,7 @@ We will have all our sessions at the **Aula d'Astronomia**. To reach the Aula d'
 
 **15:00 - 17:00** Discussion  
 
-**21:00** Social dinner  
+**20:30** Social dinner  
 
 ### May 14th (Wednesday)
 
