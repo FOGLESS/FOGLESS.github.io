@@ -29,3 +29,23 @@ The organisation is dedicated to providing a harassment-free meeting experience 
 To add or modify content of this webpage, ask for access to the GitHub repository to <a href="mailto:david.valles-perez@uv.es">David Vallés-Pérez</a>.
 
 If you have any problem regarding registration, please contact <a href="mailto:marco.molina@uv.es">Marco Molina</a> or <a href="mailto:oscar.monllor@uv.es">Óscar Monllor</a>.
+
+---
+
+<style>
+.logo-container {
+  margin-top: 2em;
+  border-top: 1px solid #ddd;
+  padding-top: 1em;
+}
+.logo-container img {
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+</style>
+
+<div class="logo-container">
+  <p><strong>Supported by:</strong></p>
+  <img src="/assets/images/logo1.png" alt="Institution 1 Logo">
+  <img src="/assets/images/logo2.png" alt="Institution 2 Logo">
+</div>
