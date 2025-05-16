@@ -12,6 +12,9 @@ The meeting will take place on Tuesday 6 and Wednesday 7 February and will provi
 
 We will have all our sessions at the **Aula d'Astronomia**. To reach the Aula d'Astronomia, enter the building and go to south wing of the building. Then, go the fifth floor *(caution! the operation is not commutative; the Aula d'Astronomia can only be reached through these stairs/lift)*.
 
+
+<center><button type="button" name="button" class="btn" onclick="location.href='https://ucomplutense-my.sharepoint.com/:f:/r/personal/patsan17_ucm_es/Documents/Projects/PID2022/FOGLESS_Compartida/Talks_Valencia_Jan2024?csf=1&web=1&e=xdBXp8';">Go to the presentation repository</button></center>
+
 ### February 6th (Tuesday)
 
 10:00 - 11:00 Welcome and introduction from the project's PIs
