@@ -11,6 +11,8 @@ The meeting will take place on Tuesday 13 and Wednesday 14 May and will provide 
 
 We will have all our sessions at the **Aula d'Astronomia**. To reach the Aula d'Astronomia, enter the building and go to the south wing of the building. Then, go to the fifth floor *(caution! the operation is not commutative; the Aula d'Astronomia can only be reached through these stairs/lift)*.
 
+<center><button type="button" name="button" class="btn" onclick="location.href='https://ucomplutense-my.sharepoint.com/:f:/r/personal/patsan17_ucm_es/Documents/Projects/PID2022/FOGLESS_Compartida/Talks_Valencia_May2025?csf=1&web=1&e=4ddQcf';">Go to the presentation repository</button></center>
+
 ### May 13th (Tuesday)
 
 **10:00 - 11:00** Welcome and introduction from the project's PIs (to be confirmed)
