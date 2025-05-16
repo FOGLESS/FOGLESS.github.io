@@ -38,6 +38,14 @@ If you have any problem regarding registration, please contact <a href="mailto:m
   text-align: center;
 }
 
+.logo-container img {
+  height: 60px;         
+  width: auto;          
+  margin: 10px 5px;
+  display: inline-block;
+}
+</style>
+  
 <div class="logo-container">
   <p><strong>Supported by:</strong></p>
   
