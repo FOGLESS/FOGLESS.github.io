@@ -37,16 +37,18 @@ If you have any problem regarding registration, please contact <a href="mailto:m
   padding-top: 1em;
   text-align: center;
 }
+
 .logo-container img {
-  max-height: 60px; /* Uniform height */
-  margin: 10px;
-  object-fit: contain;
+  height: 60px;         
+  width: auto;          
+  margin: 10px 5px;
+  display: inline-block;
 }
 </style>
 
 <div class="logo-container">
   <p><strong>Supported by:</strong></p>
-  <img src="/assests/images/Logo_Agencia_Estatal_de_Investigación.jpg" alt="Agencia Estatal de Investigación">
-  <img src="/assests/images/MCIU_header.svg" alt="MCIU">
-  <img src="/assests/images/UE.png" alt="European Union">
+  <img src="/assets/images/Logo_Agencia_Estatal_de_Investigación.jpg" alt="Agencia Estatal de Investigación">
+  <img src="/assets/images/MCIU_header.svg" alt="MCIU">
+  <img src="/assets/images/UE.png" alt="European Union">
 </div>
