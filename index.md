@@ -44,7 +44,7 @@ If you have any problem regarding registration, please contact <a href="mailto:m
 
 <div class="logo-container">
   <p><strong>Supported by:</strong></p>
-  <img src="/assets/images/Logo_Agencia_Estatal_de_Investigación.jpg" alt="Agencia_Estatal_de_Investigación">
-  <img src="/assets/images/MCIU_header.svg" alt="MCIU">
-  <img src="/assets/images/UE.png" alt="UE">
+  <img src="/assests/images/Logo_Agencia_Estatal_de_Investigación.jpg" alt="Agencia_Estatal_de_Investigación">
+  <img src="/assests/images/MCIU_header.svg" alt="MCIU">
+  <img src="/assests/images/UE.png" alt="UE">
 </div>
